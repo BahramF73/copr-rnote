@@ -1,3 +1,5 @@
+%global debug_package %{nil}
+
 Name:           rnote
 Version:        0.14.2
 Release:        %autorelease
