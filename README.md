@@ -4,3 +4,4 @@ A small [COPR](https://copr.fedorainfracloud.org/coprs/bahram-f73/rnote/) packag
 
 This repo contains the SPEC file to build the `rnote` package via COPR.
 
+Forked from: https://copr.fedorainfracloud.org/coprs/fotnite-vevo/rnote/
