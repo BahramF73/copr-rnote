@@ -38,6 +38,7 @@ infinite canvas and an adaptive UI for big and small screens.
 %license LICENSE
 
 %{_bindir}/rnote
+%{_bindir}/rnote-cli
 
 %{_datadir}/applications/com.github.flxzt.rnote.desktop
 %{_datadir}/metainfo/com.github.flxzt.rnote.metainfo.xml
@@ -49,6 +50,7 @@ infinite canvas and an adaptive UI for big and small screens.
 %{_datadir}/icons/hicolor/symbolic/apps/com.github.flxzt.rnote-symbolic.svg
 %{_datadir}/icons/hicolor/scalable/mimetypes/application-rnote.svg
 %{_datadir}/mime/packages/com.github.flxzt.rnote.xml
+%{_datadir}/thumbnailers/rnote.thumbnailer
 
 %changelog
 %autochangelog
