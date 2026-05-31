@@ -47,3 +47,6 @@ infinite canvas and an adaptive UI for big and small screens.
 %{_datadir}/icons/hicolor/symbolic/apps/com.github.flxzt.rnote-symbolic.svg
 %{_datadir}/icons/hicolor/scalable/mimetypes/application-rnote.svg
 %{_datadir}/mime/packages/com.github.flxzt.rnote.xml
+
+%changelog
+%autochangelog
